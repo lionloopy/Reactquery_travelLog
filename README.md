@@ -1,4 +1,4 @@
-<h1 align="left">🧹 TravelLog 프로젝트</h1>
+<h1 align="left">📷 TravelLog 프로젝트</h1>
 <p>자신의 여행 추억을 기록하는 웹페이지 입니다.</p></br>
 <h1>💻 Skill </h1>
 <div>
