@@ -1,6 +1,6 @@
 <h1 align="left">📷 TravelLog 프로젝트</h1>
 <p>자신의 여행 추억을 기록하는 웹페이지 입니다.</p></br>
-<h1>💻 Skill </h1>
+<h1>💻 Skill(only Front) </h1>
 <div>
    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
    <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/>
